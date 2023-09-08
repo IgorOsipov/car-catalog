@@ -6,7 +6,7 @@ import Layout from "@/components/layout/Layout";
 
 const Home: FC = () => {
   return (
-    <Layout>
+    <Layout title="Home" description="Our custumers the best">
       <h1>Hello World</h1>
     </Layout>
   );
